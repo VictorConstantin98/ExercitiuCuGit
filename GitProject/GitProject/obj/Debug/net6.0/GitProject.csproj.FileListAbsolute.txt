@@ -1,0 +1,15 @@
+C:\Proiecte Programare\ExercitiuCuGit\GitProject\GitProject\obj\Debug\net6.0\GitProject.csproj.AssemblyReference.cache
+C:\Proiecte Programare\ExercitiuCuGit\GitProject\GitProject\obj\Debug\net6.0\GitProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Proiecte Programare\ExercitiuCuGit\GitProject\GitProject\obj\Debug\net6.0\GitProject.AssemblyInfoInputs.cache
+C:\Proiecte Programare\ExercitiuCuGit\GitProject\GitProject\obj\Debug\net6.0\GitProject.AssemblyInfo.cs
+C:\Proiecte Programare\ExercitiuCuGit\GitProject\GitProject\obj\Debug\net6.0\GitProject.csproj.CoreCompileInputs.cache
+C:\Proiecte Programare\ExercitiuCuGit\GitProject\GitProject\bin\Debug\net6.0\GitProject.exe
+C:\Proiecte Programare\ExercitiuCuGit\GitProject\GitProject\bin\Debug\net6.0\GitProject.deps.json
+C:\Proiecte Programare\ExercitiuCuGit\GitProject\GitProject\bin\Debug\net6.0\GitProject.runtimeconfig.json
+C:\Proiecte Programare\ExercitiuCuGit\GitProject\GitProject\bin\Debug\net6.0\GitProject.dll
+C:\Proiecte Programare\ExercitiuCuGit\GitProject\GitProject\bin\Debug\net6.0\ref\GitProject.dll
+C:\Proiecte Programare\ExercitiuCuGit\GitProject\GitProject\bin\Debug\net6.0\GitProject.pdb
+C:\Proiecte Programare\ExercitiuCuGit\GitProject\GitProject\obj\Debug\net6.0\GitProject.dll
+C:\Proiecte Programare\ExercitiuCuGit\GitProject\GitProject\obj\Debug\net6.0\ref\GitProject.dll
+C:\Proiecte Programare\ExercitiuCuGit\GitProject\GitProject\obj\Debug\net6.0\GitProject.pdb
+C:\Proiecte Programare\ExercitiuCuGit\GitProject\GitProject\obj\Debug\net6.0\GitProject.genruntimeconfig.cache
